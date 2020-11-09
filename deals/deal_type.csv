@@ -1,0 +1,157 @@
+id,description
+-1,
+1,Asset Acquisition
+2,Merger/Acquisition
+3,Acquisition Financing
+4,Add-on
+5,Bankruptcy Financing
+6,Bridge
+7,Bankruptcy: Admin/Reorg
+8,Bankruptcy: Liquidation
+9,Carveout
+10,Collateralized Debt Obligation
+11,Corporate
+12,Corporate Divestiture
+13,Corporate Licensing
+14,Corporate Strategic
+15,Credit
+16,Debt - General
+17,Equity For Service
+19,Investor Buyout by Management
+20,Angel (individual)
+21,IPO
+22,Joint Venture
+23,Later Stage - VC
+24,Buyout/LBO
+25,Leveraged Recapitalization
+26,Loan
+27,Management Buy-In
+28,Management Buyout
+29,Merger
+30,Merger of Equals
+32,PE Growth/Expansion
+33,Private Placement
+34,PIPE
+35,Public to Private
+36,Restart - 1st
+37,Restart - 2nd
+38,Restart - 3rd
+39,Restart - 4th
+40,Recapitalization
+41,Later Stage VC - Reg D
+42,Later Stage VC - Reg S
+43,Restart - Rest
+44,Reverse Merger
+45,Restart - Later VC
+46,Restart - Seed
+47,Grant
+48,Secondary Transaction - Private
+49,Seed Round
+50,Share Repurchase
+51,Spin-Off
+52,Senior Debt
+53,Subordinated Debt
+54,Tender Offer
+56,Venture Leasing
+57,Hedge Fund
+58,First Round
+59,Second Round
+60,Public Investment 2nd Offering
+61,Later Stage - 3rd
+62,Later Stage - 4th
+63,Later Stage - 5th
+64,Later Stage - 6th
+65,Later Stage - 7th
+66,Later Stage - 8th
+67,Later Stage - 9th
+68,Undetermined
+69,Dividend Recapitalization
+70,Equity
+72,Mezzanine
+73,Revolving Credit Line
+74,Vendor Loan
+75,Secured Debt
+77,Unsecured Debt
+78,Federal Debt
+79,Funded Debt
+80,Gilt Fund
+81,Limited Recourse Debt
+82,Effective Debt
+84,Unsubordinated Debt
+85,Installment Debt
+86,Overlapping Debt
+87,Second Lien
+88,Nondischargeable Debt
+89,Convertible Debt
+90,Bonds
+92,Commercial Paper
+93,Sale-Lease back facility
+94,Other Debt
+95,Other Credit
+96,Dividend
+125,Secondary Buyout
+126,Secondary Transaction - Open Market
+130,Debt Refinancing
+131,Debt Repayment
+132,Privatization
+134,Public-Private Partnership
+135,Asset Divestiture (Corporate)
+136,Restart - Early VC
+137,Early Stage VC
+138,Later Stage VC
+139,Series A
+140,Series A1
+141,Series A2
+142,Series A3
+143,Series AA
+144,Series AAA
+145,Series B
+146,Series B1
+147,Series B2
+148,Series B3
+149,Series BB
+150,Series BBB
+151,Series C
+152,Series C1
+153,Series C2
+154,Series C3
+155,Series CC
+156,Series CCC
+157,Series D
+158,Series D1
+159,Series D2
+160,Series D3
+161,Series DD
+162,Series DDD
+163,Series E
+164,Series E1
+165,Series E2
+166,Series E3
+167,Series EE
+168,Series EEE
+169,Series F
+170,Series G
+171,Series H
+172,Series I
+173,Series J
+174,Series K
+175,Bonds (Convertible)
+176,Seller Notes
+177,"Senior Debt, Secured"
+178,"Senior Debt, Subordinated"
+179,Junior Debt
+180,Restart - Corporate
+181,Restart - Angel
+182,Corporate Asset Purchase
+183,Debt Conversion
+184,Series 1
+185,Series 2
+186,Series 3
+187,Platform Creation
+188,Secondary Transaction - Stock Distribution
+189,Debt Refinance
+190,Accelerator/Incubator
+191,Product Crowdfunding
+192,Out of Business
+193,Distressed Acquisition
+194,Capitalization
